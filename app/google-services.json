@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "245672516471",
+    "firebase_url": "https://veekaar.firebaseio.com",
+    "project_id": "veekaar",
+    "storage_bucket": "veekaar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245672516471:android:533e96d29ff245ba57df72",
+        "android_client_info": {
+          "package_name": "com.example.veekaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245672516471-86mbtn5usl1i6tloo0l455s39jakqk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXJGyNi48A-dXZAl0RI7JD-3sS5_2mIfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245672516471-86mbtn5usl1i6tloo0l455s39jakqk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
